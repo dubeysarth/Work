@@ -60,193 +60,289 @@ Top to Bottom:
 ### Average Abundance [Plants]
 
 ![System_Avg_Abundance_P_1.png](Reports/M_PL_041/System_Avg_Abundance_P_1.png)
+
 ![Degree_Avg_Abundance_P_1.png](Reports/M_PL_041/Degree_Avg_Abundance_P_1.png)
+
 ![Closeness_Avg_Abundance_P_1.png](Reports/M_PL_041/Closeness_Avg_Abundance_P_1.png)
+
 ![Betweenness_Avg_Abundance_P_1.png](Reports/M_PL_041/Betweenness_Avg_Abundance_P_1.png)
+
 ![Random_Avg_Abundance_P_1.png](Reports/M_PL_041/Random_Avg_Abundance_P_1.png)
 
 <hr>
 
 ![System_Avg_Abundance_P_0.png](Reports/M_PL_041/System_Avg_Abundance_P_0.png)
+
 ![Degree_Avg_Abundance_P_0.png](Reports/M_PL_041/Degree_Avg_Abundance_P_0.png)
+
 ![Closeness_Avg_Abundance_P_0.png](Reports/M_PL_041/Closeness_Avg_Abundance_P_0.png)
+
 ![Betweenness_Avg_Abundance_P_0.png](Reports/M_PL_041/Betweenness_Avg_Abundance_P_0.png)
+
 ![Random_Avg_Abundance_P_0.png](Reports/M_PL_041/Random_Avg_Abundance_P_0.png)
 
 ### Average Resilience [Plants]
 
 ![System_Avg_Resilience_P_1.png](Reports/M_PL_041/System_Avg_Resilience_P_1.png)
+
 ![Degree_Avg_Resilience_P_1.png](Reports/M_PL_041/Degree_Avg_Resilience_P_1.png)
+
 ![Closeness_Avg_Resilience_P_1.png](Reports/M_PL_041/Closeness_Avg_Resilience_P_1.png)
+
 ![Betweenness_Avg_Resilience_P_1.png](Reports/M_PL_041/Betweenness_Avg_Resilience_P_1.png)
+
 ![Random_Avg_Resilience_P_1.png](Reports/M_PL_041/Random_Avg_Resilience_P_1.png)
 
 <hr>
 
 ![System_Avg_Resilience_P_0.png](Reports/M_PL_041/System_Avg_Resilience_P_0.png)
+
 ![Degree_Avg_Resilience_P_0.png](Reports/M_PL_041/Degree_Avg_Resilience_P_0.png)
+
 ![Closeness_Avg_Resilience_P_0.png](Reports/M_PL_041/Closeness_Avg_Resilience_P_0.png)
+
 ![Betweenness_Avg_Resilience_P_0.png](Reports/M_PL_041/Betweenness_Avg_Resilience_P_0.png)
+
 ![Random_Avg_Resilience_P_0.png](Reports/M_PL_041/Random_Avg_Resilience_P_0.png)
 
 ### Average Persistence [Plants]
 
 ![System_Avg_Persistence_P_1.png](Reports/M_PL_041/System_Avg_Persistence_P_1.png)
+
 ![Degree_Avg_Persistence_P_1.png](Reports/M_PL_041/Degree_Avg_Persistence_P_1.png)
+
 ![Closeness_Avg_Persistence_P_1.png](Reports/M_PL_041/Closeness_Avg_Persistence_P_1.png)
+
 ![Betweenness_Avg_Persistence_P_1.png](Reports/M_PL_041/Betweenness_Avg_Persistence_P_1.png)
+
 ![Random_Avg_Persistence_P_1.png](Reports/M_PL_041/Random_Avg_Persistence_P_1.png)
 
 <hr>
 
 ![System_Avg_Persistence_P_0.png](Reports/M_PL_041/System_Avg_Persistence_P_0.png)
+
 ![Degree_Avg_Persistence_P_0.png](Reports/M_PL_041/Degree_Avg_Persistence_P_0.png)
+
 ![Closeness_Avg_Persistence_P_0.png](Reports/M_PL_041/Closeness_Avg_Persistence_P_0.png)
+
 ![Betweenness_Avg_Persistence_P_0.png](Reports/M_PL_041/Betweenness_Avg_Persistence_P_0.png)
+
 ![Random_Avg_Persistence_P_0.png](Reports/M_PL_041/Random_Avg_Persistence_P_0.png)
 
 ### Variability in Abundance [Plants]
 
 ![System_Var_Abundance_P_1.png](Reports/M_PL_041/System_Var_Abundance_P_1.png)
+
 ![Degree_Var_Abundance_P_1.png](Reports/M_PL_041/Degree_Var_Abundance_P_1.png)
+
 ![Closeness_Var_Abundance_P_1.png](Reports/M_PL_041/Closeness_Var_Abundance_P_1.png)
+
 ![Betweenness_Var_Abundance_P_1.png](Reports/M_PL_041/Betweenness_Var_Abundance_P_1.png)
+
 ![Random_Var_Abundance_P_1.png](Reports/M_PL_041/Random_Var_Abundance_P_1.png)
 
 <hr>
 
 ![System_Var_Abundance_P_0.png](Reports/M_PL_041/System_Var_Abundance_P_0.png)
+
 ![Degree_Var_Abundance_P_0.png](Reports/M_PL_041/Degree_Var_Abundance_P_0.png)
+
 ![Closeness_Var_Abundance_P_0.png](Reports/M_PL_041/Closeness_Var_Abundance_P_0.png)
+
 ![Betweenness_Var_Abundance_P_0.png](Reports/M_PL_041/Betweenness_Var_Abundance_P_0.png)
+
 ![Random_Var_Abundance_P_0.png](Reports/M_PL_041/Random_Var_Abundance_P_0.png)
 
 ### Variability in Resilience [Plants]
 
 ![System_Var_Resilience_P_1.png](Reports/M_PL_041/System_Var_Resilience_P_1.png)
+
 ![Degree_Var_Resilience_P_1.png](Reports/M_PL_041/Degree_Var_Resilience_P_1.png)
+
 ![Closeness_Var_Resilience_P_1.png](Reports/M_PL_041/Closeness_Var_Resilience_P_1.png)
+
 ![Betweenness_Var_Resilience_P_1.png](Reports/M_PL_041/Betweenness_Var_Resilience_P_1.png)
+
 ![Random_Var_Resilience_P_1.png](Reports/M_PL_041/Random_Var_Resilience_P_1.png)
 
 <hr>
 
 ![System_Var_Resilience_P_0.png](Reports/M_PL_041/System_Var_Resilience_P_0.png)
+
 ![Degree_Var_Resilience_P_0.png](Reports/M_PL_041/Degree_Var_Resilience_P_0.png)
+
 ![Closeness_Var_Resilience_P_0.png](Reports/M_PL_041/Closeness_Var_Resilience_P_0.png)
+
 ![Betweenness_Var_Resilience_P_0.png](Reports/M_PL_041/Betweenness_Var_Resilience_P_0.png)
+
 ![Random_Var_Resilience_P_0.png](Reports/M_PL_041/Random_Var_Resilience_P_0.png)
 
 ### Variability in Persistence [Plants]
 
 ![System_Var_Persistence_P_1.png](Reports/M_PL_041/System_Var_Persistence_P_1.png)
+
 ![Degree_Var_Persistence_P_1.png](Reports/M_PL_041/Degree_Var_Persistence_P_1.png)
+
 ![Closeness_Var_Persistence_P_1.png](Reports/M_PL_041/Closeness_Var_Persistence_P_1.png)
+
 ![Betweenness_Var_Persistence_P_1.png](Reports/M_PL_041/Betweenness_Var_Persistence_P_1.png)
+
 ![Random_Var_Persistence_P_1.png](Reports/M_PL_041/Random_Var_Persistence_P_1.png)
 
 <hr>
 
 ![System_Var_Persistence_P_0.png](Reports/M_PL_041/System_Var_Persistence_P_0.png)
+
 ![Degree_Var_Persistence_P_0.png](Reports/M_PL_041/Degree_Var_Persistence_P_0.png)
+
 ![Closeness_Var_Persistence_P_0.png](Reports/M_PL_041/Closeness_Var_Persistence_P_0.png)
+
 ![Betweenness_Var_Persistence_P_0.png](Reports/M_PL_041/Betweenness_Var_Persistence_P_0.png)
+
 ![Random_Var_Persistence_P_0.png](Reports/M_PL_041/Random_Var_Persistence_P_0.png)
 
 ### Average Abundance [Pollinators]
 
 ![System_Avg_Abundance_A_1.png](Reports/M_PL_041/System_Avg_Abundance_A_1.png)
+
 ![Degree_Avg_Abundance_A_1.png](Reports/M_PL_041/Degree_Avg_Abundance_A_1.png)
+
 ![Closeness_Avg_Abundance_A_1.png](Reports/M_PL_041/Closeness_Avg_Abundance_A_1.png)
+
 ![Betweenness_Avg_Abundance_A_1.png](Reports/M_PL_041/Betweenness_Avg_Abundance_A_1.png)
+
 ![Random_Avg_Abundance_A_1.png](Reports/M_PL_041/Random_Avg_Abundance_A_1.png)
 
 <hr>
 
 ![System_Avg_Abundance_A_0.png](Reports/M_PL_041/System_Avg_Abundance_A_0.png)
+
 ![Degree_Avg_Abundance_A_0.png](Reports/M_PL_041/Degree_Avg_Abundance_A_0.png)
+
 ![Closeness_Avg_Abundance_A_0.png](Reports/M_PL_041/Closeness_Avg_Abundance_A_0.png)
+
 ![Betweenness_Avg_Abundance_A_0.png](Reports/M_PL_041/Betweenness_Avg_Abundance_A_0.png)
+
 ![Random_Avg_Abundance_A_0.png](Reports/M_PL_041/Random_Avg_Abundance_A_0.png)
 
 ### Average Resilience [Pollinators]
 
 ![System_Avg_Resilience_A_1.png](Reports/M_PL_041/System_Avg_Resilience_A_1.png)
+
 ![Degree_Avg_Resilience_A_1.png](Reports/M_PL_041/Degree_Avg_Resilience_A_1.png)
+
 ![Closeness_Avg_Resilience_A_1.png](Reports/M_PL_041/Closeness_Avg_Resilience_A_1.png)
+
 ![Betweenness_Avg_Resilience_A_1.png](Reports/M_PL_041/Betweenness_Avg_Resilience_A_1.png)
+
 ![Random_Avg_Resilience_A_1.png](Reports/M_PL_041/Random_Avg_Resilience_A_1.png)
 
 <hr>
 
 ![System_Avg_Resilience_A_0.png](Reports/M_PL_041/System_Avg_Resilience_A_0.png)
+
 ![Degree_Avg_Resilience_A_0.png](Reports/M_PL_041/Degree_Avg_Resilience_A_0.png)
+
 ![Closeness_Avg_Resilience_A_0.png](Reports/M_PL_041/Closeness_Avg_Resilience_A_0.png)
+
 ![Betweenness_Avg_Resilience_A_0.png](Reports/M_PL_041/Betweenness_Avg_Resilience_A_0.png)
+
 ![Random_Avg_Resilience_A_0.png](Reports/M_PL_041/Random_Avg_Resilience_A_0.png)
 
 ### Average Persistence [Pollinators]
 
 ![System_Avg_Persistence_A_1.png](Reports/M_PL_041/System_Avg_Persistence_A_1.png)
+
 ![Degree_Avg_Persistence_A_1.png](Reports/M_PL_041/Degree_Avg_Persistence_A_1.png)
+
 ![Closeness_Avg_Persistence_A_1.png](Reports/M_PL_041/Closeness_Avg_Persistence_A_1.png)
+
 ![Betweenness_Avg_Persistence_A_1.png](Reports/M_PL_041/Betweenness_Avg_Persistence_A_1.png)
+
 ![Random_Avg_Persistence_A_1.png](Reports/M_PL_041/Random_Avg_Persistence_A_1.png)
 
 <hr>
 
 ![System_Avg_Persistence_A_0.png](Reports/M_PL_041/System_Avg_Persistence_A_0.png)
+
 ![Degree_Avg_Persistence_A_0.png](Reports/M_PL_041/Degree_Avg_Persistence_A_0.png)
+
 ![Closeness_Avg_Persistence_A_0.png](Reports/M_PL_041/Closeness_Avg_Persistence_A_0.png)
+
 ![Betweenness_Avg_Persistence_A_0.png](Reports/M_PL_041/Betweenness_Avg_Persistence_A_0.png)
+
 ![Random_Avg_Persistence_A_0.png](Reports/M_PL_041/Random_Avg_Persistence_A_0.png)
 
 ### Variability in Abundance [Pollinators]
 
 ![System_Var_Abundance_A_1.png](Reports/M_PL_041/System_Var_Abundance_A_1.png)
+
 ![Degree_Var_Abundance_A_1.png](Reports/M_PL_041/Degree_Var_Abundance_A_1.png)
+
 ![Closeness_Var_Abundance_A_1.png](Reports/M_PL_041/Closeness_Var_Abundance_A_1.png)
+
 ![Betweenness_Var_Abundance_A_1.png](Reports/M_PL_041/Betweenness_Var_Abundance_A_1.png)
+
 ![Random_Var_Abundance_A_1.png](Reports/M_PL_041/Random_Var_Abundance_A_1.png)
 
 <hr>
 
 ![System_Var_Abundance_A_0.png](Reports/M_PL_041/System_Var_Abundance_A_0.png)
+
 ![Degree_Var_Abundance_A_0.png](Reports/M_PL_041/Degree_Var_Abundance_A_0.png)
+
 ![Closeness_Var_Abundance_A_0.png](Reports/M_PL_041/Closeness_Var_Abundance_A_0.png)
+
 ![Betweenness_Var_Abundance_A_0.png](Reports/M_PL_041/Betweenness_Var_Abundance_A_0.png)
+
 ![Random_Var_Abundance_A_0.png](Reports/M_PL_041/Random_Var_Abundance_A_0.png)
 
 ### Variability in Resilience [Pollinators]
 
 ![System_Var_Resilience_A_1.png](Reports/M_PL_041/System_Var_Resilience_A_1.png)
+
 ![Degree_Var_Resilience_A_1.png](Reports/M_PL_041/Degree_Var_Resilience_A_1.png)
+
 ![Closeness_Var_Resilience_A_1.png](Reports/M_PL_041/Closeness_Var_Resilience_A_1.png)
+
 ![Betweenness_Var_Resilience_A_1.png](Reports/M_PL_041/Betweenness_Var_Resilience_A_1.png)
+
 ![Random_Var_Resilience_A_1.png](Reports/M_PL_041/Random_Var_Resilience_A_1.png)
 
 <hr>
 
 ![System_Var_Resilience_A_0.png](Reports/M_PL_041/System_Var_Resilience_A_0.png)
+
 ![Degree_Var_Resilience_A_0.png](Reports/M_PL_041/Degree_Var_Resilience_A_0.png)
+
 ![Closeness_Var_Resilience_A_0.png](Reports/M_PL_041/Closeness_Var_Resilience_A_0.png)
+
 ![Betweenness_Var_Resilience_A_0.png](Reports/M_PL_041/Betweenness_Var_Resilience_A_0.png)
+
 ![Random_Var_Resilience_A_0.png](Reports/M_PL_041/Random_Var_Resilience_A_0.png)
 
 ### Variability in Persistence [Pollinators]
 
 ![System_Var_Persistence_A_1.png](Reports/M_PL_041/System_Var_Persistence_A_1.png)
+
 ![Degree_Var_Persistence_A_1.png](Reports/M_PL_041/Degree_Var_Persistence_A_1.png)
+
 ![Closeness_Var_Persistence_A_1.png](Reports/M_PL_041/Closeness_Var_Persistence_A_1.png)
+
 ![Betweenness_Var_Persistence_A_1.png](Reports/M_PL_041/Betweenness_Var_Persistence_A_1.png)
+
 ![Random_Var_Persistence_A_1.png](Reports/M_PL_041/Random_Var_Persistence_A_1.png)
 
 <hr>
 
 ![System_Var_Persistence_A_0.png](Reports/M_PL_041/System_Var_Persistence_A_0.png)
+
 ![Degree_Var_Persistence_A_0.png](Reports/M_PL_041/Degree_Var_Persistence_A_0.png)
+
 ![Closeness_Var_Persistence_A_0.png](Reports/M_PL_041/Closeness_Var_Persistence_A_0.png)
+
 ![Betweenness_Var_Persistence_A_0.png](Reports/M_PL_041/Betweenness_Var_Persistence_A_0.png)
+
 ![Random_Var_Persistence_A_0.png](Reports/M_PL_041/Random_Var_Persistence_A_0.png)
 
 </center>
